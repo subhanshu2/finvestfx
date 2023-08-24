@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/finvestfx/static/css/main.975ab689.css",
+    "main.js": "/finvestfx/static/js/main.65802a28.js",
+    "index.html": "/finvestfx/index.html",
+    "main.975ab689.css.map": "/finvestfx/static/css/main.975ab689.css.map",
+    "main.65802a28.js.map": "/finvestfx/static/js/main.65802a28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.975ab689.css",
+    "static/js/main.65802a28.js"
+  ]
+}
